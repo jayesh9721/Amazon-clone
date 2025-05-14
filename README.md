@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Amazon Clone (Frontend Only) - README</title>
-</head>
-<body>
   <h1>🛒 Amazon Clone (Frontend Only)</h1>
 
   <h2>📜 Project Overview</h2>
