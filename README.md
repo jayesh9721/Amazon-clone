@@ -1,4 +1,4 @@
-🛒 Amazon Clone (Frontend Only)
+  <h1>🛒 Amazon Clone (Frontend Only)</h1>
 📜 Project Overview
 The Amazon Clone is a frontend-only web application that replicates the look and feel of the Amazon e-commerce platform. Built purely using modern frontend technologies, the project is aimed at practicing responsive web design, reusable components, and structured layouts using HTML, CSS, and JavaScript (or optionally a frontend framework like React).
 
